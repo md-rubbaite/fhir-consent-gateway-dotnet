@@ -2,12 +2,12 @@
 
 **Patient data access is decided by consent, purpose and role. Every decision is explainable and audited.**
 
-This is a .NET 8 reference **policy-enforcement gateway** in front of FHIR R4 resources. It shows how
+This is a .NET 10 reference **policy-enforcement gateway** in front of FHIR R4 resources. It shows how
 to build healthcare APIs where *default deny* is real, sensitive data needs explicit consent,
 break-glass is accountable, and research use is de-identified.
 
 [![ci](../../actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
-![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4)
+![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4)
 ![FHIR R4](https://img.shields.io/badge/FHIR-R4-orange)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
